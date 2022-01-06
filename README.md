@@ -11,4 +11,6 @@ Files desciption:
 3. main.ipynb : capturing live camera feed and predicting the face emotion using the saved model and frontalface xml file.
 4. model.h5 : Trained and saved model for prediction so that we don't have to train and load the model everytime.
 
-All the best!
+Presentation: [FACE EMOTION DETECTION CNN.pdf](https://github.com/hemant19singh/Face-Emotion-detection-CNN/files/7820963/FACE.EMOTION.DETECTION.CNN.pdf)
+
+All the best!!
